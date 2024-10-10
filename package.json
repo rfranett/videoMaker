@@ -8,5 +8,8 @@
   },
   "author": "franett",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
